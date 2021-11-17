@@ -1,4 +1,15 @@
-# crono
+<h1 align="center">Aplicação Web - Cronômetro</h1>
+
+<img align="center" alt="printCrono.png" src="./src/assets/printCrono.png"/>
+
+## Descrição
+- Projeto de estudo em VueJS.
+Cronômetro com opção de pausa, armazena histórico de pausas com o tempo registrado tendo opções de limpar histórico, zerar timer ou retomar o tempo de onde parou.
+
+## Status
+
+⚡✅  Finalizado - Concluído  ✅⚡
+
 
 ## Project setup
 ```
